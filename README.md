@@ -10,7 +10,9 @@
 
 - blog🔗：[https://codexx,cc](https://codexx.cc)
 
-  
+- 语雀🔗：[https://www.yuque.com/asyncawait-kfpeq](https://www.yuque.com/asyncawait-kfpeq)
+
+ 
 
 ## Abilities
 

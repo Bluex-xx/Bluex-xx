@@ -6,11 +6,11 @@
 
 - college🚥：HZAU （2021 - 2025）
 
-- Wechat💌：NULLXX415
+- wechat💌：NULLXX415
 
 - blog🔗：[https://codexx,cc](https://codexx.cc)
 
-- 语雀🔗：[https://www.yuque.com/asyncawait-kfpeq](https://www.yuque.com/asyncawait-kfpeq)
+- yuque🔗：[https://www.yuque.com/asyncawait-kfpeq](https://www.yuque.com/asyncawait-kfpeq)
 
  
 

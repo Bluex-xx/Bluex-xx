@@ -10,7 +10,7 @@
 
 - blog🔗：[https://codexx,cc](https://codexx.cc)
 
-- yuque🔗：[https://www.yuque.com/asyncawait-kfpeq](https://www.yuque.com/asyncawait-kfpeq)
+- yuque🔗：[http://blog.codexx.cc](http://blog.codexx.cc)
 
  
 

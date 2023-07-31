@@ -6,8 +6,6 @@
 
 - college🚥：HZAU （2021 - 2025）
 
-- wechat💌：NULLXX415
-
 - blog🔗：[https://codexx,cc](https://codexx.cc)
 
 - yuque🔗：[http://blog.codexx.cc](http://blog.codexx.cc)
